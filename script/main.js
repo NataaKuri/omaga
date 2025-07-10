@@ -10,26 +10,18 @@ document.addEventListener('keydown', function(e) {
 
 const messages = [
     "Tap dimana aja yaaa",
-    "hey kamu ❤️",
-    "baru kelar ujian ya",
-    "pasti capek ya",
-    "congrats ya ",
+    "hey kamu Nicole",
+    "Don't be to sad in life",
+    "Aku tau mungkin kamu lagi lelah",
+    "tapi tapi tapi jangan lama-lama ",
     "aku bikin ini biar aga beda",
     "kalo ucapin biasa kaya kureng soalnya",
     "gas pencet terus",
     "lagi",
     "ini",
     "terakhir",
-    "tapi bohong hehe :p",
-    "aku tau pasti kamu kesal",
-    "hmm",
-    "yaudah deh",
-    "padahal",
-    "aku cuma mau bilang",
-    "semangat yaaa dan maaf kemarin kemarin aku kaya dingin ke kamu",
-    "i love you❤️ bocil",
-    "bjiirlah",
-    "pencet dulu ga seh tombol dibawah ini 💝"
+    "tapi bohong cihuy",
+    "Pokoknya semangat and dont die"
 ];
 
 let currentPage = 0;
