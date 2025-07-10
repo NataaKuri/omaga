@@ -21,7 +21,8 @@ const messages = [
     "ini",
     "terakhir",
     "tapi bohong cihuy",
-    "Pokoknya semangat and dont die"
+    "Pokoknya semangat and dont die",
+    "Sama Kalo jadi pulang tiati y"
 ];
 
 let currentPage = 0;
